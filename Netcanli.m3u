@@ -8,7 +8,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="ShowTV.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8?hash=bb7c135a6c5a3f19fe200f7d9e00cb30
 #EXTINF:-1 group-title="Ulusal" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png" ,NOW TV
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2977
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=dH8abzZTOyIuBJX1j16qcw&e=1766191133
 #EXTINF:-1 group-title="Ulusal" tvg-id="StarTV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,Star TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="TV8.tr" tvg-logo="https://cdn.technettv.com/channel/33790/logo_256.png" ,TV8
@@ -398,3 +398,4 @@ https://boncuktv.atakan1983.workers.dev/dengezelal
 #EXTINF:-1 group-title="YEREL" tvg-id="TV36.tr" tvg-logo="https://cdn.technettv.com/channel/33132/logo_256.jpg" ,TV 36
 
 https://boncuktv.atakan1983.workers.dev/tv36
+
