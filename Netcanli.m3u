@@ -6,7 +6,7 @@ https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=77u7w792hndx&app=da
 #EXTINF:-1 group-title="Ulusal" tvg-id="ATV.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" ,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="ShowTV.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8?hash=bb7c135a6c5a3f19fe200f7d9e00cb30
+https://cdn501.canlitv.direct/showtv.m3u8?tkn=4zwRxHyFv-UfToVOi0A1yg&tms=1766191386&hst=m.canlitv.direct&ip=176.33.64.243&utkn=5df0e68a0424b2c54168ac07b0711c29&ch=showtvcanli
 #EXTINF:-1 group-title="Ulusal" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png" ,NOW TV
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=dH8abzZTOyIuBJX1j16qcw&e=1766191133
 #EXTINF:-1 group-title="Ulusal" tvg-id="StarTV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,Star TV
@@ -398,4 +398,5 @@ https://boncuktv.atakan1983.workers.dev/dengezelal
 #EXTINF:-1 group-title="YEREL" tvg-id="TV36.tr" tvg-logo="https://cdn.technettv.com/channel/33132/logo_256.jpg" ,TV 36
 
 https://boncuktv.atakan1983.workers.dev/tv36
+
 
