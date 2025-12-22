@@ -23,7 +23,7 @@ http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/72512.ts
 http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/72513.ts
 #EXTINF:-1 group-title="Ulusal" tvg-id="BeyazTV.tr" tvg-logo="https://cdn.technettv.com/channel/22982/logo_256_1707397409.png" ,Beyaz TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
-#EXTINF:-1 group-title="Ulusal" tvg-id="KanalB.tr" tvg-logo="https://www.kanalb.com.tr/assets/images/logo/1683890679Kanal_B_logosu.png" ,Kanal B
+#EXTINF:-1 group-title="Ulusal" tvg-id="KanalB.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_b_tr.png" ,Kanal B
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:-1 group-title="HABER" tvg-id="CNBCE.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" ,CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
@@ -398,5 +398,6 @@ https://boncuktv.atakan1983.workers.dev/dengezelal
 #EXTINF:-1 group-title="YEREL" tvg-id="TV36.tr" tvg-logo="https://cdn.technettv.com/channel/33132/logo_256.jpg" ,TV 36
 
 https://boncuktv.atakan1983.workers.dev/tv36
+
 
 
