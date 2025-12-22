@@ -37,7 +37,7 @@ https://boncuktv.atakan1983.workers.dev/trtturk
 https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="ANews.tr" tvg-logo="https://cdn.technettv.com/channel/22954/logo_256_1707397466.png" ,A News
 https://boncuktv.atakan1983.workers.dev/anews
-#EXTINF:-1 group-title="HABER" tvg-id="Ulketv.tr" tvg-logo="https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png" , Ülke TV
+#EXTINF:-1 group-title="HABER" tvg-id="Ulketv.tr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDfmmvu49ZI06VbkRR2Jw6w2sZ-fndu31Caczd7VVj8ePbHhEG6k4BnR2jaOSzfWJGeJenF28uF60T-x2auUbRz3T_pzPny_QigrmBhY9O-nSo1U5Cqh8g3Q8wE4hn20NrErWQZdH4NoeM/s1600/ulke-tv-logo.jpg" , Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.tr" tvg-logo="https://cdn.technettv.com/channel/20546/logo_256_1707397575.png" ,NTV
 https://boncuktv.atakan1983.workers.dev/ntv
@@ -398,6 +398,7 @@ https://boncuktv.atakan1983.workers.dev/dengezelal
 #EXTINF:-1 group-title="YEREL" tvg-id="TV36.tr" tvg-logo="https://cdn.technettv.com/channel/33132/logo_256.jpg" ,TV 36
 
 https://boncuktv.atakan1983.workers.dev/tv36
+
 
 
 
